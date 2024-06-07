@@ -1,2 +1,2 @@
 ### test-activities-PY
- Teste da trilha de Python da Residência TIC18
+ Test da trilha de Python da Residência TIC18
